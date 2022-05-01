@@ -15,7 +15,10 @@
   
   ## License 
   This project is license under [ISC](https://choosealicense.com/licenses/ISC/)
+<<<<<<< HEAD
   
+=======
+>>>>>>> 69302c41495f693d3ccff62ef20be728044971d9
   
   ## Questions
   If you have any questions about this projects, please contact me directly at [c.vazquez1986@gmail.com](mailto:c.vazquez1986@gmail.com).  
