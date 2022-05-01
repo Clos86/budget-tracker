@@ -5,6 +5,7 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Screenshot](#screenshot)
   * [License](#license)  
   * [Questions](#questions)
   
@@ -12,14 +13,13 @@
   [Deployed Site](https://cryptic-crag-96766.herokuapp.com/)
   ## Usage 
   You can follow the deployed link and start using it. You can also download the app from the browser.
+
+  ## Screenshot 
+  ![ScreenShot](screenshot.jpg)
   
   ## License 
   This project is license under [ISC](https://choosealicense.com/licenses/ISC/)
-<<<<<<< HEAD
-  
-=======
->>>>>>> 69302c41495f693d3ccff62ef20be728044971d9
-  
+
   ## Questions
   If you have any questions about this projects, please contact me directly at [c.vazquez1986@gmail.com](mailto:c.vazquez1986@gmail.com).  
   You can view more of my projects at [Clos86](https://github.com/Clos86).
